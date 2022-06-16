@@ -4,7 +4,7 @@
 
 *fasion mnist model
 
-*exploring new data - Drows
+*exploring new data - Draws
 
 *improving our model 
 
