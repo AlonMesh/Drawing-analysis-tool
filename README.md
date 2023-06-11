@@ -54,3 +54,21 @@ The Drawing Analysis Tool empowers professionals in the field of child psycholog
 For more information and inquiries, please contact your-email@example.com.
 
 We appreciate any feedback or contributions to further improve this project.
+
+## Semi projects:
+
+### Cat vs dog classification project
+
+Additionally, as part of our endeavors, we undertook a cat vs dog classification project, achieving an impressive accuracy of **0.6368772470467385**. Through the utilization of state-of-the-art machine learning techniques and a carefully curated dataset, we successfully trained a model capable of distinguishing between images of cats and dogs with remarkable accuracy. This project highlights our expertise in image classification and showcases our ability to tackle complex classification tasks.
+
+### fashion_mnist model
+In another notable project, we ventured into the realm of fashion with the fashion_mnist model. Leveraging a popular dataset consisting of fashion-related images, we developed a robust machine learning model that achieved an impressive accuracy of **0.86745**. This accomplishment demonstrates our proficiency in the field of image recognition and our ability to build accurate and reliable models for fashion-related applications.
+
+### Improving Wine project
+Furthermore, we made significant advancements in our wine project, which can be accessed at [here](https://github.com/AlonMesh/CarPriceEstimator/blob/main/Wine_Kaggle.ipynb). By refining our approach and focusing on specific parameters, namely density and alcohol percent, we achieved an accuracy of 0.3. This breakthrough is particularly noteworthy as it highlights our ability to extract valuable insights and achieve meaningful results even with a reduced feature set. Our improved wine project showcases our expertise in feature selection and demonstrates our commitment to continuously enhancing the accuracy and efficiency of our models.
+
+# License
+The code in this repository is licensed under the MIT License.
+
+# Authors
+This project was developed by Alon Meshulam and Aviya Oren, first-year students in the B semester of the "Data and information visualization" course.
